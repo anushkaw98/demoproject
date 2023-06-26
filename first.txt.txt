@@ -1,7 +1,5 @@
-one vs code line
+one vs code
 second line
 third line
 do few 
-third-third line
-
-added few with vs code
+thridline change with VS code
